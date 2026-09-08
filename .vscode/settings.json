@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "&": true,
+        "/^& \"d:\\\\xampp\\\\php\\\\php\\.exe\" -l \"admin/pages/reserva_sala/calendario\\.php\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
